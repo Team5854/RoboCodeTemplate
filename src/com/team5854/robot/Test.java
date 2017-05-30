@@ -6,7 +6,6 @@ public class Test {
 		
 	}
 	
-	static boolean con = true;
 	public static void periodic() {
 		
 	}
