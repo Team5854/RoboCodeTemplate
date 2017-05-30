@@ -8,11 +8,6 @@ public class Test {
 	
 	static boolean con = true;
 	public static void periodic() {
-		if (con) {
-			print("Start Moving");
-			drive.moveToPosition(100);
-			print("Stopped Moving");
-			con = false;
-		}
+		
 	}
 }
